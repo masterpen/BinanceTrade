@@ -1,0 +1,2 @@
+binance-connector==1.2.0
+discord.py==2.0.0
